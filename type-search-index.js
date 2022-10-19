@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"CashierClass"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"dbSetup"},{"p":"<Unnamed>","l":"jdbcpostgreSQLGUI"},{"p":"<Unnamed>","l":"LoginClass"},{"p":"<Unnamed>","l":"ManagerClass"},{"p":"<Unnamed>","l":"StartPage"}]
